@@ -3,5 +3,7 @@ public class Main {
         System.out.println("hi!");
         System.out.println("eivfi");
         System.out.println("123");
+        int a = 67;
+        System.out.println(a);
     }
 }
